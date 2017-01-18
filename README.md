@@ -4,3 +4,20 @@ target of this project is run two engines at same speed with single gas control,
 Second very important function of system is reduce engine speed at idle speed if the other engine is in fault, to mantain plane control.
 Optionally is possible use two of this module for quadrimotor setting one unit in Master mode and second unit in slave mode.
 Optionals are the glow outputs for glow engines, in this case the system drive automtic ingitions when you start engines and swith off it wehn engine is running.
+
+# License
+License: Attribution - Share Alike - Creative Commons (http://creativecommons.org/licenses/by-sa/3.0/) 
+
+
+# Links of interest
+
+# Discussion forum
+
+
+# Special thanks
+
+
+# Credit for the ideas used 
+ 
+# Disclaimer
+This hardware/software is provided "as is", and you use the hardware/software at your own risk. Under no circumstances shall any author be liable for direct, indirect, special, incidental, or consequential damages resulting from the use, misuse, or inability to use this hardware/software, even if the authors have been advised of the possibility of such damages. 
